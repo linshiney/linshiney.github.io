@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-05-10T04:47:30.858Z</updated>
+  <updated>2025-05-11T04:41:57.830Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>notes about dark matter and dark energy</title>
+    <link href="http://example.com/2025/05/11/notes-about-dark-matter-and-dark-energy/"/>
+    <id>http://example.com/2025/05/11/notes-about-dark-matter-and-dark-energy/</id>
+    <published>2025-05-11T04:41:57.000Z</published>
+    <updated>2025-05-11T04:41:57.830Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>What are Cosmic Rays</title>
